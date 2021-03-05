@@ -1,0 +1,13 @@
+#pieChart {
+    /* width: 67.5%; */
+    width: 60%;
+    float: right;
+    margin-right: -5%;
+}
+
+#pHeading {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #00487C;
+}

@@ -1,0 +1,29 @@
+.pHeader {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #00487C;
+    margin-left: 5%;
+    margin-bottom: 1%;
+    margin-top: 5%;
+}
+
+#pDiv {
+    width: 60%;
+}
+
+#predictions {
+    margin-bottom: 5%;
+}
+
+#cDiv {
+    width: 60%;
+}
+
+.tHeader {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #00487C;
+    text-align: right;
+    margin-right: 10%;
+    position: relative;
+}

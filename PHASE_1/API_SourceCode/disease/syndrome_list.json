@@ -1,0 +1,11 @@
+[
+{ "name": "Haemorrhagic Fever", "WHO": ["Fever"]},
+{ "name": "Acute fever and rash", "WHO": ["Fever"] },
+{ "name": "Fever of unknown Origin", "WHO": ["Fever"]},
+{ "name": "Acute Flacid Paralysis", "WHO": ["Flacid Paralysis"]},
+{ "name": "Acute gastroenteritis", "WHO": ["Gastroenteritis"] },
+{ "name": "Acute respiratory syndrome", "WHO": ["Respiratory Syndrome"] },
+{ "name": "Influenza-like illness", "WHO": ["Influenza-like"]},
+{ "name": "Encephalitis", "WHO": ["Encephalitis"] },
+{ "name": "Meningitis", "WHO": ["Meningitis"]}
+]

@@ -1,0 +1,38 @@
+.navItem {
+    font-weight: 700; 
+    width: 20%;
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 20px;
+}
+
+#navContainer {
+    text-align: center;
+    height: 5vmax;
+    background-color: #00487C;
+    width: 100.8%;
+    vertical-align: middle;
+    display: table;
+    text-align: center;
+}
+
+a {
+    font-size: 0.9em;
+    color: #EEE5E9;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700; 
+    text-decoration: none;
+    text-align: center;
+}
+
+.navItem:active {
+    background-color:#1481BA;  
+}
+
+.navItem:hover {
+    background-color: #1481BA;
+}
+
+#first {
+    background-color: #1481BA;
+}

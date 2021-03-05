@@ -1,0 +1,5297 @@
+[
+    {
+      "date": "2020-01-22",
+      "entries": [
+        {
+          "state": "Anhui",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Beijing",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 14,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Chongqing",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 6,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Fujian",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Gansu",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 0,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangdong",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 26,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 2,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guizhou",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hainan",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 4,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hebei",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Heilongjiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 0,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Henan",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 5,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 444,
+          "deaths": 17,
+          "recovered": 28,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hunan",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 4,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Inner Mongolia",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 0,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangsu",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 2,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jilin",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 0,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Liaoning",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 2,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Ningxia",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Qinghai",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 0,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shaanxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 0,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shandong",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 2,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanghai",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 9,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Sichuan",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 5,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tianjin",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 4,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tibet",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 0,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Xinjiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 0,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Yunnan",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Zhejiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-22T17:00:00",
+          "confirmed": 10,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-01-23",
+      "entries": [
+        {
+          "state": "Anhui",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 9,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Beijing",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 22,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Chongqing",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 9,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Fujian",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 5,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Gansu",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 2,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangdong",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 32,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 5,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guizhou",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 3,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hainan",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 5,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hebei",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 1,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Heilongjiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 2,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Henan",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 5,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 444,
+          "deaths": 17,
+          "recovered": 28,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hunan",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 9,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Inner Mongolia",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 0,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangsu",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 5,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 7,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jilin",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Liaoning",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 3,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Ningxia",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Qinghai",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 0,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shaanxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 3,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shandong",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 6,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanghai",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 16,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Sichuan",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 8,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tianjin",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 4,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tibet",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 0,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Xinjiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 2,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Yunnan",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 2,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Zhejiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-23T17:00:00",
+          "confirmed": 27,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-01-24",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 549,
+          "deaths": 24,
+          "recovered": 31,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangdong",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 53,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Zhejiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 43,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Beijing",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 36,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Chongqing",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 27,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hunan",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 24,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 23,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanghai",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 20,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 18,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Sichuan",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 15,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shandong",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 15,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Anhui",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 15,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Fujian",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 10,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Henan",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 9,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangsu",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 9,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hainan",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 8,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tianjin",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 8,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Yunnan",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 5,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shaanxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 5,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Heilongjiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 4,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Liaoning",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 4,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guizhou",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 3,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jilin",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 3,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Ningxia",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 2,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hebei",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 2,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Gansu",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 2,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Xinjiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 2,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Inner Mongolia",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Qinghai",
+          "country": "Mainland China",
+          "last_update": "2020-01-24T17:00:00",
+          "confirmed": 0,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-01-25",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 761,
+          "deaths": 40,
+          "recovered": 32,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangdong",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 78,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Zhejiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 62,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Chongqing",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 57,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hunan",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 43,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Beijing",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 41,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Anhui",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 39,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanghai",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 33,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Henan",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 32,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Sichuan",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 28,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shandong",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 27,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 23,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hainan",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 19,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 18,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Fujian",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 18,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangsu",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 18,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Liaoning",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 17,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shaanxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 15,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Yunnan",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 11,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tianjin",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 10,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Heilongjiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 9,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hebei",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 8,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Inner Mongolia",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 7,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 6,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guizhou",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 4,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jilin",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 4,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Gansu",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 4,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Ningxia",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 3,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Xinjiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 3,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Qinghai",
+          "country": "Mainland China",
+          "last_update": "2020-01-25T17:00:00",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-01-26",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 1058,
+          "deaths": 52,
+          "recovered": 42,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangdong",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 111,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Zhejiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 104,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Henan",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 83,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Chongqing",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 75,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hunan",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 69,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Beijing",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 68,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Anhui",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 60,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shandong",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 46,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Sichuan",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 44,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanghai",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 40,
+          "deaths": 1,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 36,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 36,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Fujian",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 35,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangsu",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 33,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hainan",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 22,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shaanxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 22,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Liaoning",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 21,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Yunnan",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 16,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Heilongjiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 15,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tianjin",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 14,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hebei",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 13,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 9,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Inner Mongolia",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 7,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Gansu",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 7,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guizhou",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 5,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Ningxia",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 4,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jilin",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 4,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Xinjiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 4,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Qinghai",
+          "country": "Mainland China",
+          "last_update": "2020-01-26T16:00:00",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-01-27",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 1423,
+          "deaths": 76,
+          "recovered": 45,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangdong",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 151,
+          "deaths": 0,
+          "recovered": 4,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Zhejiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 128,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Henan",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 128,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Chongqing",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 110,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hunan",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 100,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Beijing",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 80,
+          "deaths": 1,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shandong",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 75,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 72,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Anhui",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 70,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Sichuan",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 69,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Fujian",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 59,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanghai",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 53,
+          "deaths": 1,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangsu",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 47,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 46,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shaanxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 35,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hainan",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 33,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Liaoning",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 27,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Yunnan",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 26,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tianjin",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 23,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Heilongjiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 21,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hebei",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 18,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Gansu",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 14,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 13,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Inner Mongolia",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 11,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guizhou",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 7,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Ningxia",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 7,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jilin",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 6,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Qinghai",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 6,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Xinjiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-27T23:59:00",
+          "confirmed": 5,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-01-28",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 3554,
+          "deaths": 125,
+          "recovered": 80,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangdong",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 207,
+          "deaths": 0,
+          "recovered": 4,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Zhejiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 173,
+          "deaths": 0,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Henan",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 168,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hunan",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 143,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Chongqing",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 132,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 109,
+          "deaths": 0,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Anhui",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 106,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shandong",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 95,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Beijing",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 91,
+          "deaths": 1,
+          "recovered": 4,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Sichuan",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 90,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Fujian",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 80,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangsu",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 70,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanghai",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 66,
+          "deaths": 1,
+          "recovered": 4,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 51,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shaanxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 46,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Yunnan",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 44,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hainan",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 40,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Liaoning",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 34,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hebei",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 33,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Heilongjiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 33,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 27,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tianjin",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 24,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Gansu",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 19,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Inner Mongolia",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 15,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Ningxia",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 11,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Xinjiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 10,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guizhou",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 9,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jilin",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 8,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Qinghai",
+          "country": "Mainland China",
+          "last_update": "2020-01-28T23:00:00",
+          "confirmed": 6,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-01-29",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 3554,
+          "deaths": 125,
+          "recovered": 88,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Zhejiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 296,
+          "deaths": 0,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangdong",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 277,
+          "deaths": 0,
+          "recovered": 5,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hunan",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 221,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Henan",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 206,
+          "deaths": 2,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Anhui",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 152,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Chongqing",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 147,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shandong",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 130,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Beijing",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 111,
+          "deaths": 1,
+          "recovered": 4,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 109,
+          "deaths": 0,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Sichuan",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 108,
+          "deaths": 1,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangsu",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 99,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanghai",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 96,
+          "deaths": 1,
+          "recovered": 5,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Fujian",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 84,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 58,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shaanxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 56,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Yunnan",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 55,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hebei",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 48,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hainan",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 43,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Liaoning",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 39,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Heilongjiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 38,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tianjin",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 27,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 27,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Gansu",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 24,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Inner Mongolia",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 16,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Xinjiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 13,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Ningxia",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 12,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guizhou",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 9,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jilin",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 9,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Qinghai",
+          "country": "Mainland China",
+          "last_update": "2020-01-29T19:30:00",
+          "confirmed": 6,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-01-30",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 4903,
+          "deaths": 162,
+          "recovered": 90,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Zhejiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 428,
+          "deaths": 0,
+          "recovered": 4,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangdong",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 354,
+          "deaths": 0,
+          "recovered": 10,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Henan",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 278,
+          "deaths": 2,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hunan",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 277,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Anhui",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 200,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Chongqing",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 182,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 162,
+          "deaths": 0,
+          "recovered": 5,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shandong",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 158,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Sichuan",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 142,
+          "deaths": 1,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangsu",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 129,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Beijing",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 114,
+          "deaths": 1,
+          "recovered": 4,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanghai",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 112,
+          "deaths": 1,
+          "recovered": 5,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Fujian",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 101,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 78,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Yunnan",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 70,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hebei",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 65,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shaanxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 63,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hainan",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 46,
+          "deaths": 1,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Heilongjiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 44,
+          "deaths": 2,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Liaoning",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 41,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 35,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tianjin",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 31,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Gansu",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 26,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Inner Mongolia",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 19,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Ningxia",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 17,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jilin",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 14,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Xinjiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 14,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guizhou",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 12,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Qinghai",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 8,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tibet",
+          "country": "Mainland China",
+          "last_update": "2020-01-30T16:00:00",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-01-31",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 5806,
+          "deaths": 204,
+          "recovered": 141,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Zhejiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 538,
+          "deaths": 0,
+          "recovered": 14,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangdong",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 436,
+          "deaths": 0,
+          "recovered": 11,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Henan",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 352,
+          "deaths": 2,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hunan",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 332,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 240,
+          "deaths": 0,
+          "recovered": 7,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Anhui",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 237,
+          "deaths": 0,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Chongqing",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 211,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shandong",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 184,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Sichuan",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 177,
+          "deaths": 1,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangsu",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 168,
+          "deaths": 0,
+          "recovered": 5,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Beijing",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 139,
+          "deaths": 1,
+          "recovered": 5,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanghai",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 135,
+          "deaths": 1,
+          "recovered": 9,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Fujian",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 120,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 87,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shaanxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 87,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Yunnan",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 83,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hebei",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 82,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Heilongjiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 59,
+          "deaths": 2,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hainan",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 52,
+          "deaths": 1,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Liaoning",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 48,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanxi",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 39,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tianjin",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 32,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guizhou",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 29,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Gansu",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 29,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Ningxia",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 21,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Inner Mongolia",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 20,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Xinjiang",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 17,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jilin",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 14,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Qinghai",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 8,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tibet",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T23:59:00",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-02-01",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T11:53:00",
+          "confirmed": 7153,
+          "deaths": 249,
+          "recovered": 168,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Zhejiang",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T10:53:00",
+          "confirmed": 599,
+          "deaths": 0,
+          "recovered": 21,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangdong",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T14:23:00",
+          "confirmed": 535,
+          "deaths": 0,
+          "recovered": 14,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Henan",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T01:52:00",
+          "confirmed": 422,
+          "deaths": 2,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hunan",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T11:03:00",
+          "confirmed": 389,
+          "deaths": 0,
+          "recovered": 8,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Anhui",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T13:33:00",
+          "confirmed": 297,
+          "deaths": 0,
+          "recovered": 5,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T01:52:00",
+          "confirmed": 286,
+          "deaths": 0,
+          "recovered": 9,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Chongqing",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T08:43:00",
+          "confirmed": 247,
+          "deaths": 1,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Sichuan",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T01:52:00",
+          "confirmed": 207,
+          "deaths": 1,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shandong",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T07:51:00",
+          "confirmed": 206,
+          "deaths": 0,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangsu",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T14:03:00",
+          "confirmed": 202,
+          "deaths": 0,
+          "recovered": 6,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanghai",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T06:05:00",
+          "confirmed": 169,
+          "deaths": 1,
+          "recovered": 10,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Beijing",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T09:17:00",
+          "confirmed": 168,
+          "deaths": 1,
+          "recovered": 9,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Fujian",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T05:37:00",
+          "confirmed": 144,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shaanxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T05:37:00",
+          "confirmed": 101,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T01:52:00",
+          "confirmed": 100,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hebei",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T01:52:00",
+          "confirmed": 96,
+          "deaths": 1,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Yunnan",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T15:53:00",
+          "confirmed": 93,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Heilongjiang",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T10:33:00",
+          "confirmed": 80,
+          "deaths": 2,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Liaoning",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T15:23:00",
+          "confirmed": 64,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hainan",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T08:43:00",
+          "confirmed": 62,
+          "deaths": 1,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T01:52:00",
+          "confirmed": 47,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tianjin",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T15:43:00",
+          "confirmed": 41,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Gansu",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T15:43:00",
+          "confirmed": 40,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guizhou",
+          "country": "Mainland China",
+          "last_update": "2020-01-31T15:20:00",
+          "confirmed": 29,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Ningxia",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T02:13:00",
+          "confirmed": 26,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Inner Mongolia",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T05:37:00",
+          "confirmed": 23,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Xinjiang",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T05:37:00",
+          "confirmed": 18,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jilin",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T01:52:00",
+          "confirmed": 17,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Qinghai",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T05:37:00",
+          "confirmed": 9,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tibet",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T01:52:00",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-02-02",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T23:43:02",
+          "confirmed": 11177,
+          "deaths": 350,
+          "recovered": 295,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Zhejiang",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T18:03:05",
+          "confirmed": 661,
+          "deaths": 0,
+          "recovered": 32,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangdong",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T18:03:05",
+          "confirmed": 632,
+          "deaths": 0,
+          "recovered": 15,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Henan",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T18:03:05",
+          "confirmed": 493,
+          "deaths": 2,
+          "recovered": 10,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hunan",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T18:03:05",
+          "confirmed": 463,
+          "deaths": 0,
+          "recovered": 16,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Anhui",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T18:03:05",
+          "confirmed": 340,
+          "deaths": 0,
+          "recovered": 7,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T18:03:05",
+          "confirmed": 333,
+          "deaths": 0,
+          "recovered": 12,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Chongqing",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T23:33:02",
+          "confirmed": 300,
+          "deaths": 2,
+          "recovered": 7,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangsu",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T18:03:05",
+          "confirmed": 236,
+          "deaths": 0,
+          "recovered": 7,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Sichuan",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T18:03:05",
+          "confirmed": 231,
+          "deaths": 1,
+          "recovered": 11,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shandong",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T18:03:05",
+          "confirmed": 230,
+          "deaths": 0,
+          "recovered": 6,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Beijing",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T08:43:02",
+          "confirmed": 191,
+          "deaths": 1,
+          "recovered": 9,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanghai",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T05:53:02",
+          "confirmed": 182,
+          "deaths": 1,
+          "recovered": 10,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Fujian",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T03:43:01",
+          "confirmed": 159,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shaanxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T03:23:14",
+          "confirmed": 116,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T00:23:13",
+          "confirmed": 111,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Yunnan",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T18:03:05",
+          "confirmed": 105,
+          "deaths": 0,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hebei",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T02:53:02",
+          "confirmed": 104,
+          "deaths": 1,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Heilongjiang",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T03:23:14",
+          "confirmed": 95,
+          "deaths": 2,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Liaoning",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T18:03:05",
+          "confirmed": 70,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T23:23:13",
+          "confirmed": 66,
+          "deaths": 0,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hainan",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T18:03:05",
+          "confirmed": 64,
+          "deaths": 1,
+          "recovered": 4,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Gansu",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T23:43:02",
+          "confirmed": 51,
+          "deaths": 0,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tianjin",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T09:43:01",
+          "confirmed": 48,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guizhou",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T01:03:32",
+          "confirmed": 38,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Ningxia",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T01:43:02",
+          "confirmed": 28,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Inner Mongolia",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T03:43:01",
+          "confirmed": 27,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jilin",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T02:33:02",
+          "confirmed": 23,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Xinjiang",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T00:43:02",
+          "confirmed": 21,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Qinghai",
+          "country": "Mainland China",
+          "last_update": "2020-02-02T05:33:03",
+          "confirmed": 11,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tibet",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T01:52:40",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-02-03",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T23:23:03",
+          "confirmed": 13522,
+          "deaths": 414,
+          "recovered": 386,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangdong",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T12:53:02",
+          "confirmed": 725,
+          "deaths": 0,
+          "recovered": 21,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Zhejiang",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T13:33:02",
+          "confirmed": 724,
+          "deaths": 0,
+          "recovered": 43,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Henan",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T17:11:34",
+          "confirmed": 566,
+          "deaths": 2,
+          "recovered": 16,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hunan",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T11:03:10",
+          "confirmed": 521,
+          "deaths": 0,
+          "recovered": 22,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Anhui",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T17:11:34",
+          "confirmed": 408,
+          "deaths": 0,
+          "recovered": 14,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T01:33:02",
+          "confirmed": 391,
+          "deaths": 0,
+          "recovered": 18,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Chongqing",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T23:43:02",
+          "confirmed": 337,
+          "deaths": 2,
+          "recovered": 9,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangsu",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T11:03:10",
+          "confirmed": 271,
+          "deaths": 0,
+          "recovered": 8,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shandong",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T17:11:34",
+          "confirmed": 259,
+          "deaths": 0,
+          "recovered": 7,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Sichuan",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T11:23:23",
+          "confirmed": 254,
+          "deaths": 1,
+          "recovered": 14,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Beijing",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T09:23:05",
+          "confirmed": 212,
+          "deaths": 1,
+          "recovered": 12,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanghai",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T07:03:12",
+          "confirmed": 203,
+          "deaths": 1,
+          "recovered": 10,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Fujian",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T11:33:13",
+          "confirmed": 179,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shaanxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T02:33:02",
+          "confirmed": 128,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T12:33:02",
+          "confirmed": 127,
+          "deaths": 0,
+          "recovered": 7,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Heilongjiang",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T07:13:19",
+          "confirmed": 121,
+          "deaths": 2,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Yunnan",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T23:23:03",
+          "confirmed": 117,
+          "deaths": 0,
+          "recovered": 5,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hebei",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T00:23:14",
+          "confirmed": 113,
+          "deaths": 1,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Liaoning",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T17:11:34",
+          "confirmed": 74,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T23:13:11",
+          "confirmed": 74,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hainan",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T17:11:34",
+          "confirmed": 72,
+          "deaths": 1,
+          "recovered": 4,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tianjin",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T13:53:03",
+          "confirmed": 60,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Gansu",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T23:03:08",
+          "confirmed": 55,
+          "deaths": 0,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guizhou",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T01:03:22",
+          "confirmed": 46,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Inner Mongolia",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T03:03:09",
+          "confirmed": 34,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jilin",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T00:53:03",
+          "confirmed": 31,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Ningxia",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T08:33:03",
+          "confirmed": 31,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Xinjiang",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T01:13:21",
+          "confirmed": 24,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Qinghai",
+          "country": "Mainland China",
+          "last_update": "2020-02-03T02:43:01",
+          "confirmed": 13,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tibet",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T01:52:40",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-02-04",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T23:43:01",
+          "confirmed": 16678,
+          "deaths": 479,
+          "recovered": 522,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Zhejiang",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T13:03:07",
+          "confirmed": 829,
+          "deaths": 0,
+          "recovered": 62,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangdong",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T13:03:07",
+          "confirmed": 813,
+          "deaths": 0,
+          "recovered": 30,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Henan",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T11:53:02",
+          "confirmed": 675,
+          "deaths": 2,
+          "recovered": 27,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hunan",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T14:03:03",
+          "confirmed": 593,
+          "deaths": 0,
+          "recovered": 31,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Anhui",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T05:33:01",
+          "confirmed": 480,
+          "deaths": 0,
+          "recovered": 20,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T14:43:02",
+          "confirmed": 476,
+          "deaths": 0,
+          "recovered": 20,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Chongqing",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T23:43:01",
+          "confirmed": 366,
+          "deaths": 2,
+          "recovered": 9,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangsu",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T11:53:02",
+          "confirmed": 308,
+          "deaths": 0,
+          "recovered": 12,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Sichuan",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T01:43:02",
+          "confirmed": 282,
+          "deaths": 1,
+          "recovered": 14,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shandong",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T12:03:04",
+          "confirmed": 275,
+          "deaths": 0,
+          "recovered": 11,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Beijing",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T08:33:01",
+          "confirmed": 228,
+          "deaths": 1,
+          "recovered": 23,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanghai",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T06:33:02",
+          "confirmed": 219,
+          "deaths": 1,
+          "recovered": 12,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Fujian",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T12:13:11",
+          "confirmed": 194,
+          "deaths": 0,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Heilongjiang",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T07:43:01",
+          "confirmed": 155,
+          "deaths": 2,
+          "recovered": 4,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shaanxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T12:33:02",
+          "confirmed": 142,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T05:53:01",
+          "confirmed": 139,
+          "deaths": 0,
+          "recovered": 10,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hebei",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T08:53:01",
+          "confirmed": 126,
+          "deaths": 1,
+          "recovered": 4,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Yunnan",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T23:23:02",
+          "confirmed": 122,
+          "deaths": 0,
+          "recovered": 5,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Liaoning",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T14:13:08",
+          "confirmed": 81,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T23:23:02",
+          "confirmed": 81,
+          "deaths": 0,
+          "recovered": 4,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hainan",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T11:33:03",
+          "confirmed": 80,
+          "deaths": 1,
+          "recovered": 5,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tianjin",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T13:33:02",
+          "confirmed": 67,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guizhou",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T10:43:02",
+          "confirmed": 58,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Gansu",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T15:43:02",
+          "confirmed": 57,
+          "deaths": 0,
+          "recovered": 4,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jilin",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T00:23:05",
+          "confirmed": 42,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Inner Mongolia",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T03:03:07",
+          "confirmed": 35,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Ningxia",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T02:13:18",
+          "confirmed": 34,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Xinjiang",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T01:33:01",
+          "confirmed": 29,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Qinghai",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T01:33:01",
+          "confirmed": 15,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tibet",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T01:52:40",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-02-05",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T23:13:12",
+          "confirmed": 19665,
+          "deaths": 549,
+          "recovered": 633,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangdong",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T13:23:04",
+          "confirmed": 895,
+          "deaths": 0,
+          "recovered": 49,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Zhejiang",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T15:13:02",
+          "confirmed": 895,
+          "deaths": 0,
+          "recovered": 78,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Henan",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T15:03:02",
+          "confirmed": 764,
+          "deaths": 2,
+          "recovered": 47,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hunan",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T15:23:02",
+          "confirmed": 661,
+          "deaths": 0,
+          "recovered": 54,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T01:33:07",
+          "confirmed": 548,
+          "deaths": 0,
+          "recovered": 27,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Anhui",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T13:43:02",
+          "confirmed": 530,
+          "deaths": 0,
+          "recovered": 23,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Chongqing",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T23:43:02",
+          "confirmed": 389,
+          "deaths": 2,
+          "recovered": 15,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangsu",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T12:43:02",
+          "confirmed": 341,
+          "deaths": 0,
+          "recovered": 23,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shandong",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T10:13:13",
+          "confirmed": 307,
+          "deaths": 0,
+          "recovered": 15,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Sichuan",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T10:13:13",
+          "confirmed": 301,
+          "deaths": 1,
+          "recovered": 24,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Beijing",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T05:43:02",
+          "confirmed": 253,
+          "deaths": 1,
+          "recovered": 24,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanghai",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T06:23:04",
+          "confirmed": 243,
+          "deaths": 1,
+          "recovered": 15,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Fujian",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T12:33:01",
+          "confirmed": 205,
+          "deaths": 0,
+          "recovered": 11,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Heilongjiang",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T12:13:04",
+          "confirmed": 190,
+          "deaths": 2,
+          "recovered": 7,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shaanxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T08:43:01",
+          "confirmed": 165,
+          "deaths": 0,
+          "recovered": 6,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T12:03:08",
+          "confirmed": 150,
+          "deaths": 0,
+          "recovered": 13,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hebei",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T11:23:18",
+          "confirmed": 135,
+          "deaths": 1,
+          "recovered": 6,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Yunnan",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T23:33:02",
+          "confirmed": 128,
+          "deaths": 0,
+          "recovered": 5,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hainan",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T16:43:04",
+          "confirmed": 99,
+          "deaths": 1,
+          "recovered": 5,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Liaoning",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T15:23:02",
+          "confirmed": 89,
+          "deaths": 0,
+          "recovered": 4,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T15:23:02",
+          "confirmed": 81,
+          "deaths": 0,
+          "recovered": 5,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tianjin",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T03:43:02",
+          "confirmed": 69,
+          "deaths": 1,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guizhou",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T12:33:02",
+          "confirmed": 64,
+          "deaths": 1,
+          "recovered": 9,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Gansu",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T16:23:06",
+          "confirmed": 62,
+          "deaths": 0,
+          "recovered": 6,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jilin",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T11:03:16",
+          "confirmed": 54,
+          "deaths": 0,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Inner Mongolia",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T08:53:02",
+          "confirmed": 42,
+          "deaths": 0,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Ningxia",
+          "country": "Mainland China",
+          "last_update": "2020-02-04T02:13:18",
+          "confirmed": 34,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Xinjiang",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T02:03:13",
+          "confirmed": 32,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Qinghai",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T03:13:05",
+          "confirmed": 17,
+          "deaths": 0,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tibet",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T01:52:40",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-02-06",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T23:23:02",
+          "confirmed": 22112,
+          "deaths": 618,
+          "recovered": 817,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangdong",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T12:43:02",
+          "confirmed": 970,
+          "deaths": 0,
+          "recovered": 69,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Zhejiang",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T10:53:04",
+          "confirmed": 954,
+          "deaths": 0,
+          "recovered": 94,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Henan",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T11:23:14",
+          "confirmed": 851,
+          "deaths": 2,
+          "recovered": 56,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hunan",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T13:13:06",
+          "confirmed": 711,
+          "deaths": 0,
+          "recovered": 81,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T02:33:01",
+          "confirmed": 600,
+          "deaths": 0,
+          "recovered": 37,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Anhui",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T13:33:02",
+          "confirmed": 591,
+          "deaths": 0,
+          "recovered": 34,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Chongqing",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T23:33:02",
+          "confirmed": 411,
+          "deaths": 2,
+          "recovered": 24,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangsu",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T08:03:10",
+          "confirmed": 373,
+          "deaths": 0,
+          "recovered": 34,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shandong",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T07:53:02",
+          "confirmed": 347,
+          "deaths": 0,
+          "recovered": 27,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Sichuan",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T08:03:10",
+          "confirmed": 321,
+          "deaths": 1,
+          "recovered": 31,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Beijing",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T03:23:11",
+          "confirmed": 274,
+          "deaths": 1,
+          "recovered": 31,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanghai",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T06:53:07",
+          "confirmed": 257,
+          "deaths": 1,
+          "recovered": 25,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Heilongjiang",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T08:13:06",
+          "confirmed": 227,
+          "deaths": 3,
+          "recovered": 8,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Fujian",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T11:03:19",
+          "confirmed": 215,
+          "deaths": 0,
+          "recovered": 14,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shaanxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T13:53:02",
+          "confirmed": 173,
+          "deaths": 0,
+          "recovered": 9,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T04:13:13",
+          "confirmed": 168,
+          "deaths": 0,
+          "recovered": 14,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hebei",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T13:53:02",
+          "confirmed": 157,
+          "deaths": 1,
+          "recovered": 13,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Yunnan",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T09:43:02",
+          "confirmed": 133,
+          "deaths": 0,
+          "recovered": 7,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hainan",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T11:13:24",
+          "confirmed": 106,
+          "deaths": 1,
+          "recovered": 8,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T23:03:02",
+          "confirmed": 96,
+          "deaths": 0,
+          "recovered": 12,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Liaoning",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T14:33:02",
+          "confirmed": 94,
+          "deaths": 0,
+          "recovered": 5,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tianjin",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T23:43:01",
+          "confirmed": 79,
+          "deaths": 1,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guizhou",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T09:53:02",
+          "confirmed": 71,
+          "deaths": 1,
+          "recovered": 6,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Gansu",
+          "country": "Mainland China",
+          "last_update": "2020-02-05T16:23:06",
+          "confirmed": 62,
+          "deaths": 0,
+          "recovered": 6,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jilin",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T14:23:04",
+          "confirmed": 59,
+          "deaths": 0,
+          "recovered": 4,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Inner Mongolia",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T02:23:08",
+          "confirmed": 46,
+          "deaths": 0,
+          "recovered": 4,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Ningxia",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T02:13:15",
+          "confirmed": 40,
+          "deaths": 0,
+          "recovered": 1,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Xinjiang",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T01:13:08",
+          "confirmed": 36,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Qinghai",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T02:13:15",
+          "confirmed": 18,
+          "deaths": 0,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tibet",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T01:52:40",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-02-07",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T23:43:02",
+          "confirmed": 24953,
+          "deaths": 699,
+          "recovered": 1115,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangdong",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T10:13:06",
+          "confirmed": 1034,
+          "deaths": 1,
+          "recovered": 88,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Zhejiang",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T11:33:11",
+          "confirmed": 1006,
+          "deaths": 0,
+          "recovered": 123,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Henan",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T14:03:12",
+          "confirmed": 914,
+          "deaths": 3,
+          "recovered": 86,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hunan",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T11:33:11",
+          "confirmed": 772,
+          "deaths": 0,
+          "recovered": 112,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Anhui",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T05:13:07",
+          "confirmed": 665,
+          "deaths": 0,
+          "recovered": 47,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T01:23:02",
+          "confirmed": 661,
+          "deaths": 0,
+          "recovered": 45,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Chongqing",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T23:33:02",
+          "confirmed": 426,
+          "deaths": 2,
+          "recovered": 31,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jiangsu",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T14:03:12",
+          "confirmed": 408,
+          "deaths": 0,
+          "recovered": 43,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shandong",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T11:33:11",
+          "confirmed": 386,
+          "deaths": 0,
+          "recovered": 37,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Sichuan",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T08:23:09",
+          "confirmed": 344,
+          "deaths": 1,
+          "recovered": 42,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Beijing",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T03:23:02",
+          "confirmed": 297,
+          "deaths": 1,
+          "recovered": 33,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Heilongjiang",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T07:43:02",
+          "confirmed": 277,
+          "deaths": 3,
+          "recovered": 12,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanghai",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T06:14:15",
+          "confirmed": 277,
+          "deaths": 1,
+          "recovered": 30,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Fujian",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T13:23:03",
+          "confirmed": 224,
+          "deaths": 0,
+          "recovered": 20,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shaanxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T08:23:09",
+          "confirmed": 184,
+          "deaths": 0,
+          "recovered": 17,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guangxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T00:33:02",
+          "confirmed": 172,
+          "deaths": 0,
+          "recovered": 17,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hebei",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T12:03:04",
+          "confirmed": 172,
+          "deaths": 1,
+          "recovered": 22,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Yunnan",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T23:23:04",
+          "confirmed": 138,
+          "deaths": 0,
+          "recovered": 12,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Hainan",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T12:33:02",
+          "confirmed": 117,
+          "deaths": 2,
+          "recovered": 10,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Shanxi",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T23:43:02",
+          "confirmed": 104,
+          "deaths": 0,
+          "recovered": 15,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Liaoning",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T15:33:03",
+          "confirmed": 99,
+          "deaths": 0,
+          "recovered": 7,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Guizhou",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T11:13:07",
+          "confirmed": 81,
+          "deaths": 1,
+          "recovered": 6,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tianjin",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T05:43:03",
+          "confirmed": 81,
+          "deaths": 1,
+          "recovered": 2,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Gansu",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T02:33:06",
+          "confirmed": 67,
+          "deaths": 0,
+          "recovered": 9,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Jilin",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T00:43:02",
+          "confirmed": 65,
+          "deaths": 1,
+          "recovered": 4,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Inner Mongolia",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T11:13:07",
+          "confirmed": 50,
+          "deaths": 0,
+          "recovered": 5,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Ningxia",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T11:13:07",
+          "confirmed": 43,
+          "deaths": 0,
+          "recovered": 5,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Xinjiang",
+          "country": "Mainland China",
+          "last_update": "2020-02-07T01:43:02",
+          "confirmed": 39,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Qinghai",
+          "country": "Mainland China",
+          "last_update": "2020-02-06T02:13:15",
+          "confirmed": 18,
+          "deaths": 0,
+          "recovered": 3,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "state": "Tibet",
+          "country": "Mainland China",
+          "last_update": "2020-02-01T01:52:40",
+          "confirmed": 1,
+          "deaths": 0,
+          "recovered": 0,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    }
+  ]

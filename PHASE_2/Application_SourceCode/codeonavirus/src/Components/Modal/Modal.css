@@ -1,0 +1,62 @@
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width:100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.6);
+}
+
+.modal-main {
+    position:fixed;
+    background: white;
+    height: 80%;
+    width: 80%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    overflow: scroll;
+    box-shadow: 10px 10px 5px #001011;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    z-index: 1;
+}
+
+.cButton {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 1vmax;
+    float: right;
+    padding: 15px;
+    margin-right: 1%;
+    margin-top: 2%;
+    border-radius: 10px;
+    background-color: #00487C;
+    color: #FFFFFF;
+}
+
+.cButton:hover {
+    cursor: pointer;
+}
+
+.modal-display-block {
+    display: block;
+}
+
+.modal-display-none {
+    display: none;
+}
+
+.mHeader {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #00487C;
+    margin-left: 2%;
+}
+
+.maintext {
+    margin-left: 4%;
+    margin-right: 4%;
+}
+  

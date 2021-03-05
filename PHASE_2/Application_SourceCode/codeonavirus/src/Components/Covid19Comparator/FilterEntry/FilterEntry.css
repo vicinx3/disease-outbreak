@@ -1,0 +1,26 @@
+.cardO {
+    margin: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 95%
+}
+
+.cardL {
+    display: inline-block;
+    width: 80%;
+}
+
+.cardR {
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+}
+
+.cardIL {
+    padding: 20px;
+}
+
+.cardIR {
+    float: right;
+    padding: 5px;
+}

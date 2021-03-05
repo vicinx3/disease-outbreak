@@ -1,0 +1,26 @@
+#cvHeader {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #00487C;
+    margin-left: 2.5%;
+}
+
+.kCard {
+    width: 100%;
+}
+
+#cardC {
+    float: right;
+    width: 19%;
+    height: 170vh;
+    border-left: 1px solid #BBBBBB;
+    padding-left: 12px;
+}
+
+.cTitle {
+    color: #00487C;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    width: 80%;
+}

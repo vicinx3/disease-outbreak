@@ -1,0 +1,23 @@
+#comparison {
+    float: right;
+    width: 25%;
+    height: 100vh;
+    height: 156vh;
+    border-left: 1px solid #BBBBBB;
+    padding-left: 12px;
+    margin-top: -5%;
+}
+
+#comparator {
+    color: #00487C;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    margin-left: 2.5%;
+}
+
+.cTitle {
+    color: #00487C;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    text-align: center
+}

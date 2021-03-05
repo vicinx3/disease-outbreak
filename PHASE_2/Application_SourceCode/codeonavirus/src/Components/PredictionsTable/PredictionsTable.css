@@ -1,0 +1,6 @@
+#pMain {
+    width: 40%;
+    float: right;
+    height: 60vmax;
+    overflow: scroll;
+}

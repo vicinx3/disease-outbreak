@@ -1,0 +1,257 @@
+[
+    {
+      "date": "2020-02-20",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-02-20T23:43:02",
+          "confirmed": 62442,
+          "deaths": 2144,
+          "recovered": 11788,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-02-21",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-02-21T13:03:09",
+          "confirmed": 62662,
+          "deaths": 2144,
+          "recovered": 11881,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-02-22",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-02-22T23:33:06",
+          "confirmed": 64084,
+          "deaths": 2346,
+          "recovered": 15299,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-02-23",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-02-23T11:33:03",
+          "confirmed": 64084,
+          "deaths": 2346,
+          "recovered": 15343,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-02-24",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-02-24T11:13:09",
+          "confirmed": 64287,
+          "deaths": 2495,
+          "recovered": 16748,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-02-25",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-02-25T15:23:04",
+          "confirmed": 64786,
+          "deaths": 2563,
+          "recovered": 18971,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-02-26",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-02-26T14:13:10",
+          "confirmed": 65187,
+          "deaths": 2615,
+          "recovered": 20969,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-02-27",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-02-27T12:13:14",
+          "confirmed": 65596,
+          "deaths": 2641,
+          "recovered": 23383,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-02-28",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-02-28T00:43:01",
+          "confirmed": 65914,
+          "deaths": 2682,
+          "recovered": 26403,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-02-29",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-02-29T12:13:10",
+          "confirmed": 66337,
+          "deaths": 2727,
+          "recovered": 28993,
+          "latitude": null,
+          "longitude": null
+        }
+      ]
+    },
+    {
+      "date": "2020-03-01",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-03-01T10:13:19",
+          "confirmed": 66907,
+          "deaths": 2761,
+          "recovered": 31536,
+          "latitude": "30.9756",
+          "longitude": "112.2707"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-02",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-03-02T15:03:23",
+          "confirmed": 67103,
+          "deaths": 2803,
+          "recovered": 33934,
+          "latitude": "30.9756",
+          "longitude": "112.2707"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-03",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-03-03T11:43:02",
+          "confirmed": 67217,
+          "deaths": 2835,
+          "recovered": 36208,
+          "latitude": "30.9756",
+          "longitude": "112.2707"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-04",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-03-04T12:53:03",
+          "confirmed": 67332,
+          "deaths": 2871,
+          "recovered": 38557,
+          "latitude": "30.9756",
+          "longitude": "112.2707"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-05",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-03-05T14:53:03",
+          "confirmed": 67466,
+          "deaths": 2902,
+          "recovered": 40592,
+          "latitude": "30.9756",
+          "longitude": "112.2707"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-06",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-03-06T14:23:04",
+          "confirmed": 67592,
+          "deaths": 2931,
+          "recovered": 42033,
+          "latitude": "30.9756",
+          "longitude": "112.2707"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-07",
+      "entries": [
+        {
+          "state": "Hubei",
+          "country": "Mainland China",
+          "last_update": "2020-03-07T11:13:04",
+          "confirmed": 67666,
+          "deaths": 2959,
+          "recovered": 43500,
+          "latitude": "30.9756",
+          "longitude": "112.2707"
+        }
+      ]
+    }
+  ]
